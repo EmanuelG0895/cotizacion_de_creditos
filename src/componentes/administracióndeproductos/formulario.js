@@ -53,7 +53,7 @@ const Formulario = (props) => {
       </div>
       <div className="container-btn-enviar">
        <button type="submit" className="btn-enviar">
-        Agregar producto
+        Agregar cosa
        </button>
       </div>
      </form>
